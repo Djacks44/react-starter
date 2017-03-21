@@ -1,0 +1,46 @@
+{
+  "name": "Alt",
+  "version": "1.0.0",
+  "description": "Alt-challange",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.14.0",
+    "method-override": "^2.3.6",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.5.1",
+    "morgan": "^1.7.0",
+    "mysql": "^2.11.1",
+    "passport": "^0.3.2",
+    "passport-google-oauth": "^1.0.0",
+    "react": "^15.1.0",
+    "react-bootstrap": "^0.29.5",
+    "react-dom": "^15.1.0",
+    "react-router": "^2.4.1",
+    "request": "^2.79.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.13",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "json-loader": "^0.5.4",
+    "webpack": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Djacks44"
+  },
+  "author": "Davon Jackson",
+  "license": "ISC"
+}
